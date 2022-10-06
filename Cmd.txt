@@ -5,3 +5,7 @@
 colum-name2 datatype,
 colum-name3 datatype
 );
+=> insert into table name (col1,col2,col3)
+values(value1,value2,value3)   row-1
+      (value1,value2,value3)   row-2
+      
