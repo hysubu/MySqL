@@ -1,0 +1,7 @@
+=> create database datbase name 
+=> use database_name
+=> create table tablename
+(colum-name dattype,
+colum-name2 datatype,
+colum-name3 datatype
+);
